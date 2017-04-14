@@ -116,8 +116,8 @@ $ heroku open
 
 ## Tugas Minggu Depan
 
-1. Daftar hosting gratis di [https://www.hostinger.co.id/](idhostinger)
-2. Instal aplikasi client FTP (Filezilla, cuteFTP, dsb)
+1. Daftar hosting gratis di [idhostinger](https://www.hostinger.co.id/)
+2. Instal aplikasi client FTP ([Filezilla](https://filezilla-project.org/download.php), [WinSCP](http://downloads.techradar.com/downloads/winscp), dsb)
 
 ---
 # Terima Kasih
