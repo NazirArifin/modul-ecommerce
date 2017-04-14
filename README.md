@@ -1,9 +1,9 @@
-# Modul Praktikum E-commerce
+# Modul Praktikum Mata Kuliah E-commerce
 
-### Mata Kuliah E-commerce
-### Universitas Madura
+#### DAFTAR ISI:
+
+1. [Hosting di Heroku.Com](https://github.com/NazirArifin/modulEcommerce/blob/master/heroku.md)
 
 ---
-
 ### Mohammad Nazir Arifin, S.Kom
 #### 2017
