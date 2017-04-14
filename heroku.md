@@ -1,10 +1,14 @@
 # Hosting PHP di [HEROKU](https://www.heroku.com)
 
+![heroku](http://i1380.photobucket.com/albums/ah186/nazir579/heroku_zpsi67el12a.png "heroku.com")
+
 ## Apakah heroku.com
 
 > Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.
 
-## Membuat Aplikasi di heroku.com
+---
+
+## Tahap Persiapan
 
 - Pastikan Anda sudah terdaftar di heroku.com dengan mengakses halaman [daftar](https://signup.heroku.com/). Isi inputan dan daftar dan _CREATE FREE ACCOUNT_.
 
@@ -32,6 +36,10 @@ $ composer -v
 ```sh
 $ git --version
 ```
+![Ready](http://i1380.photobucket.com/albums/ah186/nazir579/ready_zpszskwugn2.png "Sistem Siap")
+
+
+## PHP Hello World
 
 - Buat folder baru untuk aplikasi yang akan dikerjakan lalu ketikkan perintah:
 
@@ -64,6 +72,8 @@ echo 'Hello World';
 
 - Pastikan terdapat tiga file yaitu __composer.json__, __.gitignore__, dan __index.php__ di dalam folder kerja.
 
+## Heroku Create
+
 - Ketikkan perintah untuk membuat aplikasi di heroku:
 
 ```sh
@@ -72,6 +82,7 @@ $ heroku create
 
 - Heroku akan meng-_generate_ nama acak sebagai lokasi / _url_ aplikasi Anda sekaligus memasukkan git remote ke dalam git.
 
+## Git Add, Commit, Push
 - Lakukan update git terhadap beberapa file yang kita buat dengan perintah berikut:
 
 ```sh
@@ -84,8 +95,16 @@ $ git commit -am "tambah file index, composer"
 $ git push heroku master
 ```
 
-- Tunggu beberapa saat, heroku sedang men-_deploy_ aplikasi dan untuk melihat hasilnya aplikasi yang kita buat di _browser_ maka Anda dapat mengetikkan:
+- Tunggu beberapa saat, heroku sedang men-_deploy_ aplikasi.
+
+![Deploy](http://i1380.photobucket.com/albums/ah186/nazir579/push_zps2nxj4npz.png "Deploy Aplikasi")
+
+## Membuka dan Mengakses Aplikasi
+
+- Untuk melihat hasilnya aplikasi yang kita buat, Anda dapat mengetikkan manual di _address bar_ _browser_ Anda alamat _URL_ yang dihasilkan oleh heroku (contoh: __https://dry-taiga-84751__) atau dengan mengetikkan perintah berikut di console:
 
 ```sh
 $ heroku open
-```  
+```
+
+![Output](http://i1380.photobucket.com/albums/ah186/nazir579/output_zpsdes9ofbs.png "Output Aplikasi")
