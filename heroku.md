@@ -111,6 +111,8 @@ $ heroku open
 
 ## Tambahan Untuk Belajar
 - Pelajari Procfile, ubah default apache2 ke ngix dan coba gunakan database postgres di heroku.
+- [Getting Started With PHP On Heroku](https://yitdeveloper.wordpress.com/2014/06/18/getting-started-with-php-on-heroku/)
+- [Getting Started on Heroku with PHP](https://devcenter.heroku.com/articles/getting-started-with-php#introduction)
 
 ---
 
