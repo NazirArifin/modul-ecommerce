@@ -108,3 +108,16 @@ $ heroku open
 ```
 
 ![Output](http://i1380.photobucket.com/albums/ah186/nazir579/output_zpsdes9ofbs.png "Output Aplikasi")
+
+## Tambahan Untuk Belajar
+- Pelajari Procfile, ubah default apache2 ke ngix dan coba gunakan database postgres di heroku.
+
+---
+
+## Tugas Minggu Depan
+
+1. Daftar hosting gratis di [https://www.hostinger.co.id/](idhostinger)
+2. Instal aplikasi client FTP (Filezilla, cuteFTP, dsb)
+
+---
+# Terima Kasih
