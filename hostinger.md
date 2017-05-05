@@ -48,6 +48,8 @@ echo 'hello world';
 ```
 * Upload file tersebut cara melakukan _drag & drop_ file dari folder lokal ke server. Setelah berhasil coba _refresh_/_reload_ halaman web Anda.
 
+---
+
 ## Instalasi Wordpress
 * Kita akan menggunakan Wordpress untuk aplikasi e-commerce yang akan dibuat. Sebagian besar hosting telah menyediakan _auto installer_ yang tinggal diklik maka aplikasi otomatis terinstall lengkap dengan database yang digunakan. Idhostinger juga mendukung _auto installer_ ini dan Anda dapat mengaksesnya melalui menu _Auto Installer_.
 
@@ -76,6 +78,11 @@ echo 'hello world';
 * Pelajari dan install plugin e-commerce lain selain WP e-commerce  [http://www.wpbeginner.com/plugins/best-wordpress-ecommerce-plugins-compared/](http://www.wpbeginner.com/plugins/best-wordpress-ecommerce-plugins-compared/)
 * Ubah tampilan wordpress dan menggunakan menu __Theme__ 
 
+---
+## Tugas Minggu Depan
+* Clone atau download [opencart](https://www.opencart.com/) di [https://github.com/opencart/opencart](https://github.com/opencart/opencart).
+
+---
 # Terima Kasih
 
 
