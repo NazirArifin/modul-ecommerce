@@ -23,11 +23,21 @@
 
 * Akses dengan browser server localhost Anda dan Anda akan melihat tampilan instalasi yang terdiri dari 4 langkah. Langkah pertama adalah _License Agreement_, Anda dapat membacanya atau langsung saja menekan tombol __CONTINUE__.
 
+![oc-step1](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-2_zps4akn7rhm.png "oc step1")
+
 * Langkah berikutnya adalah pengecekan sistem oleh OpenCart, pastikan semua bagian memiliki status _checked_ dan file/folder memiliki status _Writeable_. Jika sudah tekan tombol __CONTINUE__.
+
+![oc-step2](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-3_zpsu68ztbnv.png "oc step2")
+
+![oc-step2.1](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-4_zps8b4ncz5i.png "oc step2.1")
 
 * Langkah ketiga adalah pengisian _setting_ database. DB Driver pilih saja __MySQLi__. Database diisi dengan nama database yang telah Anda buat dari langkah sebelumnya. Bagian prefix bisa Anda kosongkan.
 
+![oc-step3](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-5_zpsd4bv2asc.png "oc step 3")
+
 * Selanjutnya masih di langkah ketiga terdapat bagian untuk login masuk aplikasi toko online Anda. Isi inputan tersebut sesuai dengan keinginan Anda. Tekan tombol __CONTINUE__ dan tunggu beberapa saat.
+
+![oc-step3.1](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-6_zpskbfhko8j.png "oc step 3.1")
 
 * Jika berhasil maka akan muncul pesan instalasi berhasil. Terdapat 2 link yang dapat Anda kunjungi yaitu halaman untuk mengakses toko online yang sudah Anda buat dan halaman administrator untuk mengakses halaman administrator toko online. Selamat Anda telah memiliki toko online yang sementara masih offline. Jangan lupa hapus folder __install__ setelah proses instalasi selesai.
 
