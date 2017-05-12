@@ -1,6 +1,6 @@
 # Instalasi [OpenCart](https://www.opencart.com/)
 
-![heroku](http://i1380.photobucket.com/albums/ah186/nazir579/heroku_zpsi67el12a.png "heroku.com")
+![heroku](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-1_zpszh8qrwp2.png "opencart.com")
 
 ## Apakah OpenCart
 
@@ -31,6 +31,12 @@
 
 * Jika berhasil maka akan muncul pesan instalasi berhasil. Terdapat 2 link yang dapat Anda kunjungi yaitu halaman untuk mengakses toko online yang sudah Anda buat dan halaman administrator untuk mengakses halaman administrator toko online. Selamat Anda telah memiliki toko online yang sementara masih offline. Jangan lupa hapus folder __install__ setelah proses instalasi selesai.
 
+![oc-finish](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-7_zpsatwjbaej.png "oc finish")
+
+![oc-toko](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-8_zpszcegtxmk.png "oc dashboard")
+
+![oc-toko](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-9_zps7r38foho.png "oc dashboard")
+
 ## Instalasi OpenCart (Online)
 
 * Gunakan auto installer
@@ -43,11 +49,15 @@
 
 * Extension adalah fitur tambahan yang dapat diinstall oleh pemilik toko untuk menambah fungsi-fungsi di tokonya. Anda dapat menggunakan menu Extensions di menu sebelah kiri untuk mengatur extension yang Anda gunakan.
 
+![oc-setting](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-10_zpsdcjnapsr.png "oc setting")
+
 ### Mengubah Theme
 
 * Cari theme _free_ di [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension&filter_category_id=1&filter_license=free). Baca komentar untuk mengetahui apakah theme yang ditawarkan terdapat error atau tidak. Download theme yang Anda inginkan dan kemudian ekstrak folder __catalog__ dan __system__ ke direktori _root_. 
 
 * Kemudian di pilih menu __Extensions__, pilih jenis extensionsnya __Theme__, kemudian bagian Your Store tekan tombol Edit. Setelah itu pilih theme yang Anda gunakan lalu tekan Save. Jika berhasil maka tampilan toko Anda sudah berubah.
+
+![oc-theme](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-11_zpsvudezuvn.png "oc theme")
 
 ## Tugas
 
