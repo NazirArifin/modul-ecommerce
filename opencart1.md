@@ -55,11 +55,11 @@
 
 * Pada menu sebelah kiri pilih __Settings__ dan Anda akan dibawa ke halaman pengaturan toko. Tekan tombol Edit di kolom Action. Anda dapat mengubah data Umum, Toko dll. Coba Anda ubah Nama toko, alamat toko dan pemilik toko lalu tekan tombol __Save__.
 
+![oc-setting](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-10_zpsdcjnapsr.png "oc setting")
+
 ## Manajemen Extensions
 
 * Extension adalah fitur tambahan yang dapat diinstall oleh pemilik toko untuk menambah fungsi-fungsi di tokonya. Anda dapat menggunakan menu Extensions di menu sebelah kiri untuk mengatur extension yang Anda gunakan.
-
-![oc-setting](http://i1380.photobucket.com/albums/ah186/nazir579/oc/oc-10_zpsdcjnapsr.png "oc setting")
 
 ### Mengubah Theme
 
