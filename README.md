@@ -5,7 +5,8 @@
 #### 1. [Git dan Github](https://github.com/NazirArifin/modul-ecommerce/blob/master/github.md)
 #### 2. [Hosting PHP di Heroku](https://github.com/NazirArifin/modul-ecommerce/blob/master/heroku.md)
 #### 3. [Hosting idhostinger & Instalasi Wordpress](https://github.com/NazirArifin/modul-ecommerce/blob/master/hostinger.md)
-#### 4. [Instalasi Lokal OpenCart](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart1.md)
+#### 4. [OpenCart 1. Instalasi Lokal OpenCart](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart1.md)
+#### 5. [OpenCart 2. Bahasa dan Mata Uang](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart2.md)
 
 ---
 
