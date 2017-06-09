@@ -6,7 +6,7 @@ Payment Gateway merupakan metode pembayaran yang ditawarkan ke calon pembeli tok
 
 * Unduh modul untuk bank BCA, BNI dan BRI [disini](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27777&filter_search=bca&filter_category_id=3&filter_license=0). Anda akan melihat tiga folder di dalamnya yaitu:
 
-== foto 1
+![foto1](http://i1380.photobucket.com/albums/ah186/nazir579/oc2/1_zpszzlsia9m.png "foto1")
 
 * Untuk setiap folder terdapat masing-masing folder __admin__ dan __catalog__. Ekstrak dua folder tersebut ke direktori instalasi Opencart Anda yang juga memiliki folder __admin__ dan __catalog__. Jika toko Anda online maka Anda dapat menggunakan FTP untuk meletakkan file yang telah diekstrak.
 
@@ -21,12 +21,11 @@ dimana bagian `http://localhost` Anda ubah sesuai dengan alamat website Anda. Un
 
 * Untuk masing-masing bank tekan tombol [+] untuk menginstall modul tersebut. Jika sudah maka Anda dapat mengedit pengaturan dari masing-masing bank seperti gambar berikut:
 
-== foto 2
+![foto1](http://i1380.photobucket.com/albums/ah186/nazir579/oc2/2_zpsdgsiyxoj.png "foto1")
 
 * Jika sudah terisi tekan tombol __Simpan__ dipojok kanan atas. Lakukan pengaturan lain untuk bank BNI dan BRI sesuai dan pastikan statusnya Enabled.
 
-
-== foto 3
+![foto1](http://i1380.photobucket.com/albums/ah186/nazir579/oc2/3_zpsxy80vnuk.png "foto1")
 
 ### Tugas
 * Tambahkan modul untuk bank Mandiri
@@ -41,13 +40,13 @@ Shipping method adalah metode yang ditawarkan oleh toko Anda untuk mengirimkan b
 
 * Bagian Geo Zone Name diisi dengan: `JNE Reg` dan Description diisi dengan `JNE Reg shipping`, di bagian Country pilih `Indonesia` dengan Zone `all zones` lalu tekan tombol __Save__ dipojok kanan atas. 
 
-== foto 4
+![foto1](http://i1380.photobucket.com/albums/ah186/nazir579/oc2/4_zpso0grbi1v.png "foto1")
 
 * Untuk kurir lain seperti Tiki dan POS dapat dilakukan penambahan dengan cara yang sama.
 
 * Untuk menambahkan shipping method menggunakan menu __Extensions__ > __Extensions__ dan di bagian Choose the extension type pilih __Shipping__. Cari __Indonesia Shipping__ di tabel lalu Install dengan menekan tombol [+]. Setelah itu edit Indonesia Shipping. Dibagian General Statusnya diubah __Enabled__, di __JNE Reg__ bagian Rates diisi dengan `5:10000,7:12000,10:15000,15:20000` sebagai contoh dengan format __(Berat:Harga,Berat:Harga)__. Pastikan __Status__ diisi dengan __Enabled__.
 
-== foto 5
+![foto1](http://i1380.photobucket.com/albums/ah186/nazir579/oc2/5_zpssylrejyy.png "foto1")
 
 ### Tugas
 * Tambahkan shipping method untuk kurir POS Indonesia
