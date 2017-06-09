@@ -7,6 +7,8 @@
 #### 3. [Hosting idhostinger & Instalasi Wordpress](https://github.com/NazirArifin/modul-ecommerce/blob/master/hostinger.md)
 #### 4. [OpenCart 1. Instalasi Lokal OpenCart](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart1.md)
 #### 5. [OpenCart 2. Bahasa dan Mata Uang](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart2.md)
+#### 6. [OpenCart 3. Metode Pembayaran & Pengiriman](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart3.md)
+#### 7. [OpenCart 4. Pemesanan/Pembelian](https://github.com/NazirArifin/modul-ecommerce/blob/master/opencart4.md)
 
 ---
 
